@@ -1,7 +1,7 @@
 ![Puppertino Stars](https://img.shields.io/github/stars/codedgar/puppertino?style=for-the-badge) ![Puppertino's contributors](https://img.shields.io/github/contributors/codedgar/puppertino?style=for-the-badge)   [![Follow Puppertino_css](https://img.shields.io/twitter/follow/Puppertino_css?style=for-the-badge)](https://twitter.com/Puppertino_css) [![Follow Codedgar_dev](https://img.shields.io/twitter/follow/codedgar_dev?style=for-the-badge)](https://twitter.com/codedgar_dev)
 ![Puppertino Logo](https://i.imgur.com/r81X3Yj.png)
 
-# Welcome to Puppertino V 1.0!
+# This is Human Centerd CSS Framework by Puppertino V 1.0!
 
 Hi! Welcome to **Puppertino!** Puppertino is a framework meant to mimic the look
 of **macOS** and follow the **human guidelines**. Puppertino is a Framework
